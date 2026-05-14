@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../ApiGateway/ApiGateway/ApiGateway.csproj" />
+  <Project Path="AppointmentService/AppointmentService.csproj" Id="6fc8a111-e0b7-4a83-8205-d24ffa358b49" />
+  <Project Path="DoctorService/DoctorService.csproj" Id="a1003c60-b5fc-4266-80ee-c3a72c79e251" />
+  <Project Path="PatientService/PatientService.csproj" Id="463de03a-b055-4517-8ae0-f61ff132b01e" />
+  <Project Path="UserService/UserService.csproj" Id="0d11fcfe-af10-4404-9e29-264b394fd849" />
+</Solution>
